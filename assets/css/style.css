@@ -97,8 +97,14 @@ nav{
 main{
     /*Make main element take any surplus space*/
     flex: 1 0 auto;
-    background-color: aqua;
     margin-top: 53px;
+}
+
+/*Hero Section Image*/
+#hero{
+    height: 650px;
+    width: 100%;
+    background: url("../images/pexels-marketingtuig-66639.jpg") no-repeat center center/cover;
 }
 
 /*Footer*/
