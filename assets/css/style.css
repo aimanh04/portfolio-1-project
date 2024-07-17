@@ -84,7 +84,7 @@ main{
     /*Make main element take any surplus space*/
     flex: 1 0 auto;
     background-color: aqua;
-
+    margin-top: 47px;
 }
 
 /*Footer*/
