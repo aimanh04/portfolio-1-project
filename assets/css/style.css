@@ -133,6 +133,63 @@ main{
     left: 10px;
 }
 
+/*About Us Section*/
+#about-us{
+    text-align: center;
+    padding-top: 1.5rem;
+}
+
+#about-us h2{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#about-us h3{
+    font-size: 110%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.about-us-box{
+    border-width: 5px;
+}
+
+.about-us-text{
+    height: 200px;
+}
+
+#our-journey-text,
+#culinary-expertise-text,
+#the-joy-of-cooking-text,
+#health-and-well-being-text{
+    padding: 6px 5% 1rem 5%;
+}
+
+#our-journey-image,
+#culinary-expertise-image,
+#the-joy-of-cooking-image,
+#health-and-well-being-image{
+    margin-left: 10px;
+    margin-right: 10px;
+    object-fit: cover;
+}
+
+#our-journey-image{
+background: url(../images/pexels-cottonbro-3298637.jpg) center center / cover;
+}
+
+#culinary-expertise-image{
+background: url(../images/pexels-cottonbro-3338497.jpg) center center / cover;
+}
+
+#the-joy-of-cooking-image{
+background: url(../images/pexels-yente-van-eynde-1263034-2403391.jpg) center center / cover;
+}
+
+#health-and-well-being-image{
+background: url(../images/pexels-yente-van-eynde-1263034-2403392.jpg) center center / cover;
+}
+
 /*Footer*/
 footer{
 
