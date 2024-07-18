@@ -154,7 +154,7 @@ main{
     border-width: 5px;
 }
 
-.about-us-text{
+.about-us-image{
     height: 200px;
 }
 
@@ -162,7 +162,7 @@ main{
 #culinary-expertise-text,
 #the-joy-of-cooking-text,
 #health-and-well-being-text{
-    padding: 6px 5% 1rem 5%;
+    padding: 10px 5% 1rem 5%;
 }
 
 #our-journey-image,
@@ -232,6 +232,46 @@ footer{
     .nav-toggle-label{
         display: none;
     }
+
+    /*About Us Section for Index Page*/
+.about-us-box{
+    max-width: 396px;
+    margin: 0;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#our-journey,
+#culinary-expertise,
+#the-joy-of-cooking,
+#health-and-well-being{
+    display: flex;
+    justify-content: center;
+    padding: 0, 5%, 0, 5%;
+    padding-bottom: 10px;
+}
+
+#our-journey-image,
+#culinary-expertise-image,
+#the-joy-of-cooking-image,
+#health-and-well-being-image{
+    width: 100%;
+}
+
+#our-journey-image,
+#the-joy-of-cooking-image{
+    order: -1;
+}
+
+.about-us-text{
+    align-items: center;
+    width: 100%;
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
 
 }
 
