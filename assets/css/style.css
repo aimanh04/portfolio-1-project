@@ -28,6 +28,16 @@ h1{
     font-style: normal;
 }
 
+h2, h3{
+    letter-spacing: 2px;
+    font-weight: bold;
+}
+
+h2{
+    text-transform: uppercase;
+    padding-bottom: 10px;
+}
+
 /*Header*/
 header{
 background-color: #ffffff;
@@ -105,6 +115,22 @@ main{
     height: 650px;
     width: 100%;
     background: url("../images/pexels-marketingtuig-66639.jpg") no-repeat center center/cover;
+    position: relative;
+}
+
+/*Cover Text*/
+#cover-text{
+    background-color: rgba(216, 186, 186, 0.7);
+    position: absolute;
+    bottom: 30px;
+    width: 80%;
+    font-size: 130%;
+    min-height: 100px;
+    padding-top: 5px;
+    padding-left: 15px;
+    padding-bottom: 5px;
+    border-radius: 4px;
+    left: 10px;
 }
 
 /*Footer*/
@@ -154,5 +180,12 @@ footer{
 
 /*Media query for big diesktops (992px and up)*/
 @media screen and (min-width: 992px) {
-
+    /*Cover text for large screens*/
+    #cover-text{
+        width: 500px;
+        font-size: 160%;
+        right: 150px;
+        top: 30px;
+        height: 200px;
+    }
 }
