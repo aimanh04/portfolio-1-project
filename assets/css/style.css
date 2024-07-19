@@ -108,6 +108,8 @@ main{
     /*Make main element take any surplus space*/
     flex: 1 0 auto;
     margin-top: 53px;
+    flex-direction: column;
+    min-height: 100vh;
 }
 
 /*Hero Section Image*/
@@ -199,7 +201,7 @@ text-align: center;
 }
 
 #italian-cuisine-image{
-background: url(../images/mae-mu-Pvclb-iHHYY-unsplash.jpg) no-repeat center center/cover;
+background: url(../images/mae-mu-Pvclb-iHHYY-unsplash.webp) no-repeat center center/cover;
 width: 100%;
 height: 150px;
 opacity: 0.8;
@@ -207,7 +209,7 @@ background-size: cover;
 }
 
 #mexican-cuisine-image{
-background: url(../images/diego-lozano-BpmEx2YgqWM-unsplash.jpg) no-repeat center center/cover;
+background: url(../images/diego-lozano-BpmEx2YgqWM-unsplash.webp) no-repeat center center/cover;
 width: 100%;
 height: 150px;
 opacity: 0.8;
@@ -215,11 +217,12 @@ background-size: cover;
 }
 
 #french-cuisine-image{
-background: url(../images/pexels-alex-gonzo-1518705084-27100872.jpg) no-repeat center center/cover;
+background: url(../images/pexels-alex-gonzo-1518705084-27100872.webp) no-repeat center center/cover;
 width: 100%;
 height: 150px;
 opacity: 0.8;
 background-size: cover;
+background-position: bottom;
 }
 
 .live-classes {
@@ -228,9 +231,34 @@ background-size: cover;
     padding-top: 30px;
 }
 
-/*Footer*/
-footer{
+/*Recipes page*/
+#recipes{
+    
+}
 
+#recipes-images{
+    height: 100%;
+}
+
+.recipes-img-text{
+    
+}
+
+.recipe-text{
+    height: 100%;
+}
+
+#recipes > h2 {
+    padding-top: 10px;
+}
+
+/*Footer*/
+.social-media-recipes{
+}
+
+footer{
+width: 100%;
+margin-top: auto;
 }
 
 #social-networks{
