@@ -15,7 +15,7 @@ body{
     display: flex;
     flex-direction: column;
     font-family: "Montserrat", sans-serifS;
-    color: #4f0a0a
+    color: #4f0a0a;
 }
 
 h1{
@@ -235,7 +235,7 @@ background-position: bottom;
 #recipes{
 
 }
-
+/*Make it responsive*/
 #recipes-images{
     min-height: 100vh;
     padding-top: 1rem;
@@ -250,12 +250,15 @@ background-position: bottom;
 .recipes-img-text{
     text-align: center;
     height: 100%;
+    width: 300px;
+    border-radius: 10px;
 }
 
 .recipes-img{
     width: 300px;
     border-radius: 10px;
     height: 200px;
+    
 }
 
 .recipe-text{
@@ -269,7 +272,7 @@ ul{
 }
 
 #recipes > h2 {
-    padding-top: 15px;
+    padding-top: 30px;
     text-align: center;
 }
 
