@@ -109,6 +109,7 @@ main{
     flex: 1 0 auto;
     margin-top: 53px;
     flex-direction: column;
+    display: flex;
     flex-grow: 1;
 }
 
@@ -281,32 +282,9 @@ ul{
     padding-bottom: 10px;
 }
 
-/*Footer*/
-.social-media-recipes{
-}
-
-footer{
-width: 100%;
-margin-top: auto;
-}
-
-#social-networks{
-    text-align: center;
-    padding: 20px 0;
-    display: flex;
-    justify-content: space-evenly;
-    list-style-type: none;
-}
-
-#social-networks i{
-    font-size: 150%;
-    padding: 5%;
-    color: #701212;
-}
-
 /*Get Connected Page*/
 #getconnected{
-    background:url(../images/pexels-yente-van-eynde-1263034-2403392.webp);
+    background:url("../images/pexels-marketingtuig-66639.webp");
     background-size: cover;
     background-position: 75%;
     padding: 20px 10% 0 10%;
@@ -350,6 +328,28 @@ margin-top: auto;
     color: #fafafa;
 }
 
+/*Footer*/
+.social-media-recipes{
+}
+
+footer{
+width: 100%;
+margin-top: auto;
+}
+
+#social-networks{
+    text-align: center;
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
+
+#social-networks i{
+    font-size: 150%;
+    padding: 5%;
+    color: #701212;
+}
 
 /*Media query and add responsiveness for tablets or larger (768px and up)*/
 @media screen and (min-width: 768px) {
@@ -373,6 +373,13 @@ margin-top: auto;
 
     .nav-toggle-label{
         display: none;
+    }
+
+    /* Main content */
+    main {
+        /* Push main content down to accomodate larger header */
+        margin-top: 79px;
+        display: flex;
     }
 
     /*About Us Section for Index Page*/
@@ -414,12 +421,13 @@ margin-top: auto;
     justify-content: center;
 }
 
-#signup {
+/*Get Connected Page*/
+#getconnected {
     background-position: center;
     position: relative;
 }
 
-#signup-form {
+#getconnected-form {
     max-width: 400px;
     position: absolute;
     left: 10%;
