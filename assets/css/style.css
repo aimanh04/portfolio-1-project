@@ -379,7 +379,6 @@ margin-top: auto;
     main {
         /* Push main content down to accomodate larger header */
         margin-top: 79px;
-        display: flex;
     }
 
     /*About Us Section for Index Page*/
@@ -423,6 +422,7 @@ margin-top: auto;
 
 /*Get Connected Page*/
 #getconnected {
+    height: 650px;
     background-position: center;
     position: relative;
 }
