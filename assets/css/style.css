@@ -234,52 +234,60 @@ background-position: bottom;
 
 /*Recipes page*/
 #recipes{
-
-}
-/*Make it responsive*/
-#recipes-images{
-    min-height: 100vh;
-    padding-top: 1rem;
-    display: flex;
-    flex-wrap: wrap;
-    flex-direction: row;
-    justify-content: space-around;
-    flex-grow: 1;
-    gap: 5px;
-}
-
-.recipes-img-text{
     text-align: center;
-    height: 100%;
-    width: 300px;
-    border-radius: 10px;
+    padding-top: none;
 }
 
-.recipes-img{
-    width: 300px;
-    border-radius: 10px;
-    height: 200px;
-    
-}
-
-.recipe-text{
-    height: 100%;
-}
-
-ul{
-    padding-left: 25px;
-    padding-right: 25px;
-    padding-bottom: 10px;
-}
-
-#recipes > h2 {
-    padding-top: 30px;
-    text-align: center;
-}
-
-.recipe-text > h3 {
+#recipes h2{
     padding-top: 10px;
     padding-bottom: 10px;
+}
+
+#recipes h3{
+    font-size: 110%;
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+
+.recipes-box{
+    border-width: 5px;
+}
+
+.recipes-image{
+    height: 200px;
+}
+
+#grilled-chicken-text,
+#spaghetti-bolognese-text,
+#chicken-alfredo-text,
+#veggie-omelette-text{
+    padding: 10px 5% 1rem 5%;
+}
+
+#grilled-chicken-image,
+#spaghetti-bolognese-image,
+#chicken-alfredo-image,
+#veggie-omelette-image{
+    margin-left: 10px;
+    margin-right: 10px;
+    object-fit: cover;
+}
+
+/*Images for About Us Section*/
+#grilled-chicken-image{
+background: url(../images/pexels-klaus-nielsen-6287525.webp) center center / cover;
+}
+
+#spaghetti-bolognese-image{
+background: url(../images/you-le-e7R3W8_8zws-unsplash.webp) center center / cover;
+}
+
+#chicken-alfredo-image{
+background: url(../images/pexels-enginakyurt-11220208.webp) center center / cover;
+}
+
+#veggie-omelette-image{
+background: url(../images/pexels-enginakyurt-1437268.webp) center center / cover;
 }
 
 /*Get Connected Page*/
@@ -412,6 +420,45 @@ margin-top: auto;
 }
 
 .about-us-text{
+    align-items: center;
+    width: 100%;
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+    /*Recipe Section for Recipes Page*/
+.recipes-box{
+    max-width: 396px;
+    margin: 0;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#recipes-images,
+#spaghetti-bolognese,
+#chicken-alfredo,
+#veggie-omelette{
+    display: flex;
+    justify-content: center;
+    padding: 0, 5%, 0, 5%;
+    padding-bottom: 10px;
+}
+
+#grilled-chicken-image,
+#spaghetti-bolognese-image,
+#chicken-alfredo-image,
+#veggie-omelette-image{
+    width: 100%;
+}
+
+#grilled-chicken-image,
+#chicken-alfredo-image{
+    order: -1;
+}
+
+.recipes-text{
     align-items: center;
     width: 100%;
     height: 150px;
