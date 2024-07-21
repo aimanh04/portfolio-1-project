@@ -6,4 +6,24 @@ At COOKUP, we believe that cooking is a journey best shared. Join our vibrant co
 
 The link to the website is here - [Cook Up](https://aimanh04.github.io/portfolio-1-project/getconnected.html)
 
-![Cook Up Am i responsive website](readme/feature-screenshots/Screenshot%20(1).png)
+![Cook Up Am i responsive website](readme/feature-screenshots/screenshot.png)
+
+## FEATURES
+
+
+## TESTING
+
+
+## TECHNOLOGIES USED
+
+
+## VALIDATOR TESTING
+
+
+## UNFIXED BUGS
+
+
+## DEPLOYMENT
+
+
+## CREDITS
