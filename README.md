@@ -10,6 +10,16 @@ The link to the website is here - [Cook Up](https://aimanh04.github.io/portfolio
 
 ## FEATURES
 
+### Navigation
+
+- The navbar is featured on all three pages. The navbar is fully responsive and contains of the logo, Home page, Recipes page and Get Connected page and is identical in all three pages for easy navigation to the user.
+- The navigation is clear and tells the user the name of the website and makes the pages of the website easy to find.
+- On large screen sizes when hovering over the menu items on the navbar the item will appear in a darker color and the text will change to white.
+- The page the user is on will show on the navbar by having a underline under the specific page they are in.
+
+![Navigation Bar](readme/feature-screenshots/navbar.png)
+
+
 
 ## TESTING
 
