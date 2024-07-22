@@ -59,5 +59,17 @@ The link to the website is here - [Cook Up](https://aimanh04.github.io/portfolio
 
 ## DEPLOYMENT
 
+The website has been deployed to GitHub. Here were the steps as followed to deploy:
+1. Log in to GitHub.
+2. In your GitHub repository, navigate to the settings tab.
+3. Select "Pages" on the Codes and automation section on the left-hand sidebar.
+4. Select the following:
+- The source is set to "Deploy from branch"
+- Main branch shall be selected
+- Folder is set to / (root).
+5. Click save next to /root.
+6. Go back to the code tab. Refresh your repository and a deployment section will show up with your deployed project.
+
+The live link to the website is here - [CookUp](https://aimanh04.github.io/portfolio-1-project/)
 
 ## CREDITS
