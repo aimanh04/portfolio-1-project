@@ -28,7 +28,53 @@ The link to the website is here - [Cook Up](https://aimanh04.github.io/portfolio
 
 
 ## TESTING
+### Accesibility
 
+#### Lighthouse testing
+#### Index Page
+
+![Index Lighthouse](readme/lighthouse-screenshots/IMG_1257.jpg)
+
+#### Recipes page
+
+![Recipes Lighthouse](readme/lighthouse-screenshots/IMG_1256.jpg)
+
+#### Get Connected page
+
+![Get Connected Lighthouse](readme/lighthouse-screenshots/IMG_1255.jpg)
+
+### Validator Testing
+
+#### HTML
+No errors were found on the three pages when testing it with the W3C Markup Validator.
+
+- [Index page HTML Validator results](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Faimanh04.github.io%2Fportfolio-1-project%2F)
+
+- [Recipes page HTML Validator results](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Faimanh04.github.io%2Fportfolio-1-project%2Frecipes.html)
+
+- [Get Connected HTML Validator results](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Faimanh04.github.io%2Fportfolio-1-project%2Fgetconnected.html)
+
+#### CSS
+No errors were found for the CSS Stylesheet from the W3C CSS Validator.
+
+- [CSS Stylesheet Validator results](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Faimanh04.github.io%2Fportfolio-1-project%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=sv)
+
+
+### Links testing
+
+- All the links works perfectly and has been successfully tested to redirect you to the page desired.
+- All external links works and redirects you to the page with a seperate tab.
+
+### Browser testing
+The website has been successfully tested on these browers:
+
+- Google Chrome
+- Mozilla Firefox
+- Safari
+
+### Unfixed bugs
+
+- No known bugs has been left unfixed
 
 ## TECHNOLOGIES USED
 ### Languages
@@ -50,8 +96,6 @@ The link to the website is here - [Cook Up](https://aimanh04.github.io/portfolio
 - [Am I Responsive](https://ui.dev/amiresponsive) - Used to test responsivness
 - [Convertio](https://convertio.co/) - Used to convert images into webp formats
 - [ChatGPT](https://chatgpt.com/) - Used to create texts and paragraphs
-
-## VALIDATOR TESTING
 
 
 ## UNFIXED BUGS
