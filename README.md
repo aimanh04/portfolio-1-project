@@ -19,13 +19,37 @@ The link to the website is here - [Cook Up](https://aimanh04.github.io/portfolio
 
 ![Navigation Bar](readme/feature-screenshots/navbar.png)
 
+- The navigation bar turns into a burger menu with a dropdown of all pages on smaller screens
+- When you click on the logo on the navbar you will be redirected to the index page.
+
+
+![Navigation Bar on smaller screens](readme/feature-screenshots/navbar-dropdown.png)
+
 
 
 ## TESTING
 
 
 ## TECHNOLOGIES USED
+### Languages
 
+- HTML 
+- CSS
+
+### Frameworks, Libraries and Programes used
+
+- [Balsamiq](https://balsamiq.com/wireframes/) - Used to create wireframes
+- [GitHub](https://GitHub.com/) - To save and store files for the website
+- [Gitpod](https://gitpod.io/) - To use as workspace to code website
+- [Google Fonts](https://fonts.google.com/) - To import fonts into website
+- [Chrome Dev Tools](https://developers.google.com/web/tools/chrome-devtools) - Used to troubleshoot, test the sites responsiveness, check the page's elements and style elements
+- [Pexels](https://www.pexels.com/) - Used to import free images
+- [Unsplash](https://unsplash.com/de) - Used to import free images
+- [Favicon](https://www.favicon.cc/) - Used for the wbesites favicon
+- [Chrome Lighthouse](https://developers.google.com/web/tools/lighthouse) - To test the websites performance and accesibility
+- [Am I Responsive](https://ui.dev/amiresponsive) - Used to test responsivness
+- [Convertio](https://convertio.co/) - Used to convert images into webp formats
+- [ChatGPT](https://chatgpt.com/) - Used to create texts and paragraphs
 
 ## VALIDATOR TESTING
 
