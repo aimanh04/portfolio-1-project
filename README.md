@@ -95,11 +95,6 @@ The website has been successfully tested on these browers:
 - [Chrome Lighthouse](https://developers.google.com/web/tools/lighthouse) - To test the websites performance and accesibility
 - [Am I Responsive](https://ui.dev/amiresponsive) - Used to test responsivness
 - [Convertio](https://convertio.co/) - Used to convert images into webp formats
-- [ChatGPT](https://chatgpt.com/) - Used to create texts and paragraphs
-
-
-## UNFIXED BUGS
-
 
 ## DEPLOYMENT
 
@@ -117,3 +112,31 @@ The website has been deployed to GitHub. Here were the steps as followed to depl
 The live link to the website is here - [CookUp](https://aimanh04.github.io/portfolio-1-project/)
 
 ## CREDITS
+
+### Special Thanks To
+
+- Code Institutes learning material from the diploma-educations and the essentials on HTML and CSS. Especially the Love Running walkthrough project.
+
+- [ChatGPT](https://chatgpt.com/) - Used to create texts and paragraphs on my website when I lacked creativity.
+
+- [W3CSchools](https://www.w3schools.com/)
+
+- [Stack Overflow](https://stackoverflow.com/)
+
+- [Slack](https://slack.com/)
+
+### Media
+
+The photos used on the website was taken from Pexels & Unsplash. Special thanks to these talented photographers:
+ - [Hero Image & Get Connected Page Image](https://www.pexels.com/sv-se/foto/66639/) - Timur Saglambilek
+ - [About Us Image](https://www.pexels.com/sv-se/foto/mat-restaurang-man-person-3298637/) - Cottonbro studio
+ - [About Us Image](https://www.pexels.com/sv-se/foto/mat-halsosam-person-kvinna-3338497/) - Cottonbro studio
+ - [About Us Image](https://www.pexels.com/sv-se/foto/mat-tallrik-restaurang-man-2403391/) - Yente Van Eynde
+ - [About Us Image](https://www.pexels.com/sv-se/foto/mat-halsosam-restaurang-hand-2403392/) - Yente Van Eynde
+ - [Live Classes Image](https://unsplash.com/photos/fork-with-spaghetti-Pvclb-iHHYY) - Mae Mu
+ - [Live Classes Image](https://unsplash.com/photos/cooked-food-on-white-ceramic-plate-BpmEx2YgqWM) - Diego Lozano
+ - [Live Classes Image](https://www.pexels.com/sv-se/foto/man-hander-maltid-ost-27100872/) - Alex Gonzo
+ - [Recipes Images](https://www.pexels.com/sv-se/foto/mat-tallrik-italienska-restaurang-6287525/) - Klaus Nielsen
+ - [Recipes Images](https://unsplash.com/photos/a-bowl-of-food-next-to-a-drink-e7R3W8_8zws) - You Le
+ - [Recipes Images](https://www.pexels.com/sv-se/foto/italienska-pasta-bord-kyckling-11220209/) - Engin Akyurt
+ - [Recipes Images](https://www.pexels.com/sv-se/foto/1437268/) - Engin Akyurt
