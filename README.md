@@ -8,6 +8,10 @@ The link to the website is here - [Cook Up](https://aimanh04.github.io/portfolio
 
 ![Cook Up Am i responsive website](readme/feature-screenshots/screenshot.png)
 
+
+
+## WIREFRAMES
+
 ## FEATURES
 
 ### Navigation
@@ -22,9 +26,49 @@ The link to the website is here - [Cook Up](https://aimanh04.github.io/portfolio
 - The navigation bar turns into a burger menu with a dropdown of all pages on smaller screens
 - When you click on the logo on the navbar you will be redirected to the index page.
 
-
 ![Navigation Bar on smaller screens](readme/feature-screenshots/navbar-dropdown.png)
 
+### Footer
+ - This footer section includes the websites social media pages.
+ - When clicking on a icon on the footer, you will be redirected to another tab to that social media platform
+
+ ![Footer with social media icons](readme/feature-screenshots/footer.png)
+
+### Index Page
+
+#### Home Page Image
+![Home page image with a cook in the kitchen](readme/feature-screenshots/hero.png)
+
+- The image prominently features a man cooking in a kitchen and gives the website a visually pleasing look.
+- The cover text on the image is semi-transparent and has text welcoming the user to the website.
+- This image is fully responsive and the cover text moves to the bottom of the image on smaller screen so the message still delievers to the user.
+
+
+#### About Us Section
+![About Us section with four images and next to each image a short text describing the website and brand](readme/feature-screenshots/aboutus.png)
+
+- The about us section is divided into four parts. Each part containing a brief text informing the user about the website with a cooking-related image next to it.
+- This section shows brief intel about the website, its goals with cooking and why you should learn to cook.
+- This section is responsive by ordering the images and texts under one another on smaller devices.
+
+#### Live Classes Section
+![Live classes section with three different images to each live cuisine class](readme/feature-screenshots/liveclasses.png)
+
+- The Live Classes section displays three images with text of each class and time.
+- This section allows the user to see what classes are available and what time they take place.
+
+### Recipes Page
+![Recipes page with recipes to four dishes](readme/feature-screenshots/recipes.png)
+
+- This page of the website is very much similar to the about us section on the index page. It is subdivided into four parts with a collection of various recipes, each with a image, title and a brief description.
+- Each recipe includes details instructions and ingredients.
+- Very much like the about us section on the index page, this page and its content shows ordered under one another on smaller devices making it fully responsive.
+
+### Get Connected Page
+![Get Connected Page with a signup form to live classes](readme/feature-screenshots/getconnected.png)
+
+- This page is where the user signs up to the live classes and the page displays a signup form with the necessary user information needed: First name, last name, email-address and what class the user wants to attend.
+- This page is fully responsive and will adapt accordingly to any screen size.
 
 
 ## TESTING
