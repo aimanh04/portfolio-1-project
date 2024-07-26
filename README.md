@@ -9,9 +9,6 @@ The link to the website is here - [Cook Up](https://aimanh04.github.io/portfolio
 ![Cook Up Am i responsive website](readme/feature-screenshots/screenshot.png)
 
 
-
-## WIREFRAMES
-
 ## FEATURES
 
 ### Navigation
