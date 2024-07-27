@@ -167,7 +167,7 @@ The live link to the website is here - [CookUp](https://aimanh04.github.io/portf
 - [Slack](https://slack.com/)
 
 ### Content Inspiration
-Page inspired by another students page that I found on Slack.
+Page look inspired by another students page that I found on Slack.
 - https://xakkusu.github.io/1_project_pilates/index.html
 
 ### Media
